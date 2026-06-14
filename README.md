@@ -1,7 +1,6 @@
-# Power-BI-Superstore-sales-dashboard-
-.
+Power-BI-Superstore-sales-dashboard
 
-📊 Superstore Sales Dashboard | Power BI
+Superstore Sales Dashboard | Power BI
 📌 Project Overview
 
 The Superstore Sales Dashboard is an interactive Power BI report designed to analyze sales performance, profitability, customer segments, shipping methods, and regional trends. The dashboard provides business stakeholders with actionable insights to support data-driven decision-making.
