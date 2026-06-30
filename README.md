@@ -10,24 +10,24 @@ Features:
 - Shipping Mode Analysis
 - Customer Segment Distribution
 - Payment Mode Filtering
-- Interactive Slicers for:
-  >Payment Mode
-  >Customer Segment
+- Interactive Slicers for: 
+  Payment Mode and Customer Segment
 
 Tools & Technologies Used:
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query
-Data Modeling
-Data Visualization
+
+•	Power BI Desktop 
+•	DAX (Data Analysis Expressions) 
+•	Power Query 
+•	Data Modeling
+•	Data Visualization
 
 Key Metrics:
-Metric	Value-
-Total Sales	1.6M
-Total Profit	175.3K
-Total Orders	22K
-Profit Margin	11%
-Avg Shipping Time	3.9 Days
+
+Total Sales- 1.6M
+Total Profit- 175.3K
+Total Orders- 22K
+Profit Margin-	11%
+Avg Shipping Time-	3.9 Days
 
 📊 Dashboard Components
 1. KPI Cards
